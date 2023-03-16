@@ -21,4 +21,3 @@ else:
     print(f'Tomastes no cu, tu errou! {er}')  
     
 print(f'O numéro é {n2}')
-asdasdsdaspdasjikpdasjkpdasjkpd
